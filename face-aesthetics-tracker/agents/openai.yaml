@@ -1,0 +1,7 @@
+interface:
+  display_name: "面部美学动态追踪"
+  short_description: "本地生成精细面部结构选区、骨相透视与动态关键点跟踪效果"
+  brand_color: "#C88E78"
+  default_prompt: "Use $face-aesthetics-tracker to interpret my Chinese copy and render a tasteful tracked facial-aesthetics overlay on the supplied video."
+policy:
+  allow_implicit_invocation: true
