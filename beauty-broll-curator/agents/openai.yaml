@@ -1,0 +1,4 @@
+interface:
+  display_name: "美业 B-roll 选片师"
+  short_description: "为美业口播匹配高清竖屏素材，核验画质、构图与来源"
+  default_prompt: "使用 $beauty-broll-curator 为这份美业口播或 SRT 匹配高清竖屏 B-roll。"
